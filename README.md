@@ -17,16 +17,15 @@ Welcome to my GitHub profile. I am a dedicated tech enthusiast with a focus on w
 - **Development Tools**: Linux, Git, DaVinci Resolve
 - **3D Modeling & Game Development**: Unity, Blender
 
-![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)
-![Python Logo](https://img.icons8.com/color/48/000000/python.png)
-![AI Logo](https://img.icons8.com/ios-filled/50/000000/brain.png)
-![Unity Logo](https://img.icons8.com/color/48/000000/unity.png)
-![Blender Logo](https://img.icons8.com/color/48/000000/blender.png)
-
+![React](https://img.icons8.com/ios-filled/50/000000/react.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![AI](https://img.icons8.com/ios-filled/50/000000/brain.png)
+![DaVinci Resolve](https://img.icons8.com/color/48/000000/da-vinci-resolve.png)
 
 ## Contact
 
-If you are interested in discussing potential collaborations or would like to connect on technology-related topics, please feel free to reach out. You can connect with me on [LinkedIn](https://www.linkedin.com/in/gresham-dave/) or [Email](mailto:greyashdave@gmail.com) 📧.
+If you are interested in discussing potential collaborations or would like to connect on technology-related topics, please feel free to reach out. You can connect with me on [LinkedIn](https://www.linkedin.com/in/gresham-dave/) or 📧[Email](mailto:greyashdave@gmail.com).
 
 ---
 
