@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Gresham Dave
 
-Welcome to my GitHub profile! I am a passionate tech enthusiast specializing in web development at [OpenTurf Technologies](https://www.openturf.in/) 🌐. My expertise and interests span across various domains, including Artificial Intelligence, computer vision, machine learning, deep learning, and game development 🎮.
+Welcome to my GitHub profile! I am a passionate tech enthusiast specializing in web development at [OpenTurf Technologies](https://www.openturf.in/) 🌐. My interests span across various domains, including Software Development, Artificial Intelligence, computer vision, machine learning, deep learning, Game Development 🎮 and Video Editing.
 
 ---
 
@@ -21,20 +21,18 @@ Welcome to my GitHub profile! I am a passionate tech enthusiast specializing in 
 - React.js, Node.js, HTML, CSS
 
 ### **AI & Machine Learning**
-- Computer Vision, Scikit-learn, Pandas, Numpy
+- Computer Vision, Scikit-learn, Pandas, Numpy, Keras
 
 ### **Database Systems**
-- PostgreSQL, Sequelize.js
+- PostgreSQL, MySQL, Sequelize.js
 
 ### **Development Tools**
-- Linux, Git, DaVinci Resolve
+- Linux, Git, VSCode
 
 ### **3D Modeling & Game Development**
 - Unity, Blender
 
 ---
-
-## 🛠️ Featured Tools & Technologies
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
