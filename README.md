@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Gresham Dave
 
-Welcome to my GitHub profile! I am a passionate tech enthusiast specializing in web development at [OpenTurf Technologies](https://www.openturf.in/) 🌐. My interests span across various domains, including Software Development, Artificial Intelligence, computer vision, machine learning, deep learning, Game Development 🎮 and Video Editing.
+Welcome to my GitHub profile! I am a passionate tech enthusiast .🌐. My interests span across various domains, including Software Development, Artificial Intelligence, computer vision, machine learning, deep learning, Game Development 🎮 and Video Editing.
 
 ---
 
