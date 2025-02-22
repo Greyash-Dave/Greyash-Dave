@@ -1,52 +1,59 @@
-# 👋 Hello, I'm Gresham Dave
 
-Welcome to my GitHub profile! I am a passionate tech enthusiast .🌐. My interests span across various domains, including Software Development, Artificial Intelligence, computer vision, machine learning, deep learning, Game Development 🎮 and Video Editing.
+# Hi there, I'm Gresham Dave ! 👋
 
----
-
-## 💼 Professional Focus
-
-- **Web Development**: Crafting effective and scalable solutions with modern web technologies 🌍.
-- **Artificial Intelligence**: Diving into the latest advancements in AI, with a particular focus on computer vision, machine learning, and deep learning 🧠.
-- **Problem-Solving**: Tackling complex challenges and creating innovative solutions 🧩.
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://gresham-dave-portfolio.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Gresham-Dave) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Greyash-Dave)
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 About Me
+I'm a **Software Engineer** passionate about **Full-Stack Development, Game Development, and AI/ML**. With a strong foundation in **React.js, Node.js, PostgreSQL, Python, and OpenCV**, I build impactful and engaging applications. I've contributed to **open-source projects** and participated in **hackathons**, always eager to learn and innovate.
 
-### **Programming Languages**
-- JavaScript, Python, C, C++, Java
+### 🔥 What I'm Working On
+- Learning **Rust** and experimenting with **AI wrappers**.
+- Experimenting **real-time applications** with **Socket.IO in React & Node.js**.
 
-### **Web Technologies**
-- React.js, Node.js, HTML, CSS
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### **AI & Machine Learning**
-- Computer Vision, Scikit-learn, Pandas, Numpy, Keras
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Greyash-Dave&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Greyash-Dave&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Greyash-Dave&theme=radical)
 
-### **Database Systems**
-- PostgreSQL, MySQL, Sequelize.js
+## 💼 Experience
+- **Software Engineer Intern @ Openturf Technologies** *(Mar 2024 - Sep 2024)*  
+  Developed a **full-stack Pokémon card game** integrating **PokeAPI**, implementing secure authentication, and transitioning to a **serverless architecture**.
 
-### **Development Tools**
-- Linux, Git, VSCode
+## 🏆 Achievements
+- **IEEE YESIST12 - International Finalist (2023)**
+- **TN Police Hackathon Finalist (2024)**
+- **600+/19,500 in IEEEXtreme 18.0**
 
-### **3D Modeling & Game Development**
-- Unity, Blender
+## 📌 Featured Projects
+### 🎮 Pokémon Card Game  
+A full-stack Pokémon card game featuring **real-time battle mechanics** and **secure user authentication**.
+[🔗 Demo](https://pokemon-card-game-client.vercel.app/) | [🛠️ Code](https://github.com/Greyash-Dave/Pokemon-Card-Game)
 
----
+### 📖 Reader’s Viewpoint  
+A minimalistic **ePub reader** with customizable themes and **YouTube integration**.
+[🔗 Demo](https://readers-viewpoint.vercel.app/) | [🛠️ Code](https://github.com/Greyash-Dave/Readers-Viewpoint)
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-00897B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAZCAYAAAC+Vz2+AAAAAXNSR0IArs4c6QAAAnlJREFUSEvtlUFKAzEQhJ8kA3QgBo5BJG+wjHAUBQWAHEBMBcI9oANyD/AE2D6gA9ARUoFS1AowgBC8DIbSak97ZSD+FnZunJmdP90SP/zM7nb84wBxwDNrXQoJTHcI1THNTlJvGCru0rMD1KvYtD6cYkWqVijFnlxPtmiHj2DtMQ02HzUVPRKnBdujBdx11n9GpSIn8EcKHLLVD9coZuwLBuCyisM0FG5N4WZ69QQlvkh+ACi9Jw4ObNUSy+yO7AzX4p4UrEkZw2wgVjYQ43DCVszlbzHT5fOMQuUTeUxuBq8csNoxP4k8PUEEy+EUu8EKLf0rMXUPPHh5eq6VDcPEdEznOB1c8VRJKlEgCtf7np/h5HegGM0qPrwBJ6HzZ4iYfIhoHE5PYEVL0LhAN2RFQ9HmxnJYXMOwlgZoyRYmHEc3wvGstM2Tr0rZc3tWc9Ny+wsCvNTWInH7Nc/29sKr53xNd8erF2Ch0Ft49hr3+g+f4Yrm15HzVZWbQ17UWiDi92ZWsUpZB76+vL5k/Uvf2Kb3uYkWjEhZwXl6DL+ZpjhV+69Q3oI5zlmfH3PnLKZnUbR5do0i2uZfdPzh/9o94TTP6BD8ZAAAAAElFTkSuQmCC)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+### 🏛️ Citizen & Constitution  
+A **gamified learning platform** designed to teach constitutional rights via **interactive visual novels**.
+[🔗 Demo](https://grey-citizen-and-constitution.vercel.app/) | [🛠️ Code](https://github.com/Greyash-Dave/Citizen-Constitution-GamifiedPlatform)
 
----
-## 📞 Contact Me
+### 📊 YouTube Scraper  
+A **comprehensive analytics dashboard** providing insights into YouTube channels and videos using **Flask and React**.
+[🔗 Demo](https://media-scrapper-app.vercel.app/) | [🛠️ Code](https://github.com/Greyash-Dave/media-scrapper-app)
 
-I'm always open to discussing potential collaborations or technology-related topics. Feel free to connect with me:
+### 🎥 Shortify - Video to Short Converter  
+Convert long videos into **engaging short clips** with **auto-cropping, captions, and AI processing**.
+[🛠️ Code](https://github.com/Greyash-Dave/Shortify)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gresham-dave/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:greyashdave@gmail.com)
+## 🧠 Work Style & Tech Philosophy
+> "If I start working, nothing stops me until I complete it or am satisfied with the result. As a perfectionist, I'm rarely satisfied—but I know that learning requires quantity over quality. I rapidly prototype, embrace known bugs, and iterate based on observations and research. Learning vast domains to create solutions is my methodology."
 
----
-
-Thank you for stopping by my profile!
+## 📫 Let's Connect!
+- Portfolio: [gresham-dave-portfolio.vercel.app](https://gresham-dave-portfolio.vercel.app/)
+- LinkedIn: [linkedin.com/in/Gresham-Dave](https://linkedin.com/in/Gresham-Dave)
+- GitHub: [Greyash-Dave](https://github.com/Greyash-Dave)
