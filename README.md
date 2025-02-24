@@ -57,7 +57,7 @@ I build impactful and engaging applications that blend creativity with technical
   <tr>
     <td width="50%" align="center">
       <h3>🎮 Pokémon Card Game</h3>
-      <img src="https://i.imgur.com/8ONpnHH.png" width="100%" /><br>
+      <img src="https://img.youtube.com/vi/v021D_MnzvY/0.jpg" width="100%" /><br>
       <p>
         <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a>
         <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
@@ -71,7 +71,7 @@ I build impactful and engaging applications that blend creativity with technical
     </td>
     <td width="50%" align="center">
       <h3>📖 Reader's Viewpoint</h3>
-      <img src="https://i.imgur.com/lixfqrY.jpg" width="100%" /><br>
+      <img src="https://img.youtube.com/vi/10hgdNmQjWU/0.jpg" width="100%" /><br>
       <p>
         <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a>
         <a href="https://developers.google.com/youtube/v3"><img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube API" /></a>
@@ -101,7 +101,7 @@ I build impactful and engaging applications that blend creativity with technical
     </td>
     <td width="50%" align="center">
       <h3>🎥 Shortify - Video Converter</h3>
-      <img src="https://i.imgur.com/U61Izsx.jpg" width="100%" /><br>
+      <img src="https://github.com/Greyash-Dave/shortify/blob/main/screenshots/app-preview.png" width="100%" /><br>
       <p>
         <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
         <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a>
