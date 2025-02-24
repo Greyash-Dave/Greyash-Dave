@@ -146,7 +146,7 @@ I build impactful and engaging applications that blend creativity with technical
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxucXk0ejF0dGw2cWhwY3gxOHhnZmVwNmdscnltbmIzZW5qOHNpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEDIHHp3i8bVoEdxd7/giphy.gif" width="40"> Work Style & Philosophy
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=It%20always%20takes%20longer%20than%20you%20expect%2C%20even%20when%20you%20take%20into%20account%20Hofstadter%27s%20Law&author=Douglas%20R.%20Hofstadter " alt="Hofstadter's Law Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=It%20always%20takes%20longer%20than%20you%20expect%2C%20even%20when%20you%20take%20into%20account%20Hofstadter%27s%20Law&author=Douglas%20R.%20Hofstadter" alt="Hofstadter's Law Quote"/>
 </div>
 
 <div align="center">
