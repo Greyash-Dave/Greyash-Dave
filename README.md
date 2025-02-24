@@ -23,9 +23,9 @@ const gresham = {
   specialization: ["Full-Stack", "Game Development", "AI/ML"],
   technologies: {
     frontend: ["React.js", "JavaScript", "HTML/CSS"],
-    backend: ["Node.js", "Express", "PostgreSQL"],
-    ai: ["Python", "OpenCV", "TensorFlow"],
-    gameDev: ["Unity", "Unreal Engine"],
+    backend: ["Node.js", "Express", "Flask", "PostgreSQL"],
+    ai: ["Python", "OpenCV", "scikit-learn"],
+    gameDev: ["Unity", "Pygame"],
     currentlyLearning: ["Rust", "AI Wrappers", "Socket.IO"]
   },
   philosophy: "Learn fast, build faster, iterate continuously."
@@ -140,18 +140,24 @@ I build impactful and engaging applications that blend creativity with technical
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBzdGE2ajNveml6a3dsN3AzNnYwdXJsZTlvZWNuYzkzeXV6ZHVyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giEkFHo4rBnHYGwBgb/giphy.gif" width="40"> GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Greyash-Dave&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=0D1117"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greyash-Dave&layout=compact&langs_count=7&theme=radical&border_radius=8&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Greyash-Dave&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+const gresham = {
+  role: "Software Engineer",
+  specialization: ["Full-Stack", "Game Development", "AI/ML"],
+  technologies: {
+    frontend: ["React.js", "JavaScript", "HTML/CSS"],
+    backend: ["Node.js", "Express", "Flask", "PostgreSQL"],
+    ai: ["Python", "OpenCV", "scikit-learn"],
+    gameDev: ["Unity", "Pygame"],
+    currentlyLearning: ["Rust", "AI Wrappers", "Socket.IO"]
+  },
+  philosophy: "Learn fast, build faster, iterate continuously."
+};  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greyash-Dave&layout=compact&langs_count=7&theme=radical&border_radius=8&hide_border=true&bg_color=0D1117"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxucXk0ejF0dGw2cWhwY3gxOHhnZmVwNmdscnltbmIzZW5qOHNpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEDIHHp3i8bVoEdxd7/giphy.gif" width="40"> Work Style & Philosophy
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=It%20always%20takes%20longer%20than%20you%20expect%2C%20even%20when%20you%20take%20into%20account%20Hofstadter%27s%20Law&author=Douglas R. Hofstadter " alt="Hofstadter's Law Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=It%20always%20takes%20longer%20than%20you%20expect%2C%20even%20when%20you%20take%20into%20account%20Hofstadter%27s%20Law&author=Douglas%20R.%20Hofstadter " alt="Hofstadter's Law Quote"/>
 </div>
 
 <div align="center">
