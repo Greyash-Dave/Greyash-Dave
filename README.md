@@ -53,7 +53,7 @@ I build impactful and engaging applications that blend creativity with technical
 
 <div align="center">
 
-<<table>
+<table>
   <tr>
     <td width="50%" align="center">
       <h3>🎮 Pokémon Card Game</h3>
