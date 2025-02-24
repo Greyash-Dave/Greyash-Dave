@@ -87,7 +87,7 @@ I build impactful and engaging applications that blend creativity with technical
   <tr>
     <td width="50%" align="center">
       <h3>🏛️ Citizen & Constitution</h3>
-      <img src="https://i.imgur.com/8Hx0U8i.jpg" width="100%" /><br>
+      [![Watch the video](https://img.youtube.com/vi/OO9dnwtZrN4/0.jpg)](https://www.youtube.com/watch?v=OO9dnwtZrN4)<br>
       <p>
         <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a>
         <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
@@ -100,12 +100,11 @@ I build impactful and engaging applications that blend creativity with technical
       </p>
     </td>
     <td width="50%" align="center">
-      <h3>🎥 Shortify - Video Converter <span><img src="https://img.shields.io/badge/-AI_POWERED-8A2BE2" alt="AI Powered" /></span></h3>
+      <h3>🎥 Shortify - Video Converter</h3>
       <img src="https://i.imgur.com/U61Izsx.jpg" width="100%" /><br>
       <p>
         <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
         <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a>
-        <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
       </p>
       <p><strong>Convert long videos into engaging short clips with auto-cropping, captions, and AI processing</strong></p>
       <p>
