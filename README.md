@@ -87,7 +87,7 @@ I build impactful and engaging applications that blend creativity with technical
   <tr>
     <td width="50%" align="center">
       <h3>🏛️ Citizen & Constitution</h3>
-      [![Watch the video](https://img.youtube.com/vi/OO9dnwtZrN4/0.jpg)](https://www.youtube.com/watch?v=OO9dnwtZrN4)<br>
+      <img src="https://img.youtube.com/vi/OO9dnwtZrN4/0.jpg" width="100%" /><br>
       <p>
         <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a>
         <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
