@@ -140,18 +140,7 @@ I build impactful and engaging applications that blend creativity with technical
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBzdGE2ajNveml6a3dsN3AzNnYwdXJsZTlvZWNuYzkzeXV6ZHVyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giEkFHo4rBnHYGwBgb/giphy.gif" width="40"> GitHub Stats
 
 <div align="center">
-const gresham = {
-  role: "Software Engineer",
-  specialization: ["Full-Stack", "Game Development", "AI/ML"],
-  technologies: {
-    frontend: ["React.js", "JavaScript", "HTML/CSS"],
-    backend: ["Node.js", "Express", "Flask", "PostgreSQL"],
-    ai: ["Python", "OpenCV", "scikit-learn"],
-    gameDev: ["Unity", "Pygame"],
-    currentlyLearning: ["Rust", "AI Wrappers", "Socket.IO"]
-  },
-  philosophy: "Learn fast, build faster, iterate continuously."
-};  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greyash-Dave&layout=compact&langs_count=7&theme=radical&border_radius=8&hide_border=true&bg_color=0D1117"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greyash-Dave&layout=compact&langs_count=7&theme=radical&border_radius=8&hide_border=true&bg_color=0D1117"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxucXk0ejF0dGw2cWhwY3gxOHhnZmVwNmdscnltbmIzZW5qOHNpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEDIHHp3i8bVoEdxd7/giphy.gif" width="40"> Work Style & Philosophy
