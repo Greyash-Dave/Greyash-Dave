@@ -1,16 +1,12 @@
 <div align="center">
-  
-  # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajF5Y2ZkdnhxeW51Z2RpczFsbDgwOXE4ZXM2cmlvMjgyMzJueDR4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2IudUHdI075HL02Pkk/giphy.gif" width="30"/> GRESHAM DAVE <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajF5Y2ZkdnhxeW51Z2RpczFsbDgwOXE4ZXM2cmlvMjgyMzJueDR4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2IudUHdI075HL02Pkk/giphy.gif" width="30"/>
+
+<img src="./images/banner.png" width="30"/> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Game+Developer;Software+Engineer&color=FFFFFF&background=0D1117)](https://git.io/typing-svg)
   
   <a href="https://gresham-dave-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/Gresham-Dave"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Greyash-Dave"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 </div>
 
 <br>
