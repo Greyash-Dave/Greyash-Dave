@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/banner.png" /> 
+<a href="https://gresham-dave-portfolio.vercel.app/"><img src="./images/banner.png" /></a> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Game+Developer;Software+Engineer&color=FFFFFF&background=0D1117)](https://git.io/typing-svg)
   
