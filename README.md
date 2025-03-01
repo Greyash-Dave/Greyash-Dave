@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://gresham-dave-portfolio.vercel.app/"><img src="./images/banner.png" /></a> 
+<a href="https://gresham-dave-portfolio.vercel.app/" target="_blank"><img src="./images/banner.png" /></a> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Game+Developer;Software+Engineer&color=FFFFFF&background=0D1117)](https://git.io/typing-svg)
   
-  <a href="https://gresham-dave-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/Gresham-Dave"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Greyash-Dave"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://gresham-dave-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Gresham-Dave" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Greyash-Dave" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br>
