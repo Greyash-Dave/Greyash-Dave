@@ -8,7 +8,7 @@
 
 </div> <br>
 
-## <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="40"> About Me
+## About Me
 
 ```rust
 struct Technologies {
@@ -45,7 +45,7 @@ fn main() {
 
 I build impactful and engaging applications that blend creativity with technical excellence. From leading hackathon projects to developing full-stack games, I thrive in environments that challenge me to innovate and learn continuously.
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -53,45 +53,16 @@ I build impactful and engaging applications that blend creativity with technical
 
 </div>
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40"> Projects
 
-<div align="center"> <table> <tr> <td width="50%" align="center"> <h3>🎮 Pokémon Card Game</h3> <a href="https://www.youtube.com/watch?v=v021D_MnzvY" target="_blank"> <img src="https://img.youtube.com/vi/v021D_MnzvY/0.jpg" width="100%" /> </a><br> <p> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a> <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a> </p> <p><strong>A full-stack game with real-time battle mechanics, PokeAPI integration, and serverless architecture</strong></p> <p> <a href="https://github.com/Greyash-Dave/Pokemon-Card-Game"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo"></a> <a href="https://pokemon-card-game-client.vercel.app/"><img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"></a> </p> </td> <td width="50%" align="center"> <h3>📖 Reader's Viewpoint</h3> <a href="https://www.youtube.com/watch?v=10hgdNmQjWU" target="_blank"> <img src="https://img.youtube.com/vi/10hgdNmQjWU/0.jpg" width="100%" /> </a><br> <p> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a> <a href="https://developers.google.com/youtube/v3"><img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube API" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a> </p> <p><strong>A minimalistic ePub reader with customizable themes and YouTube integration</strong></p> <p> <a href="https://github.com/Greyash-Dave/Readers-Viewpoint"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo"></a> <a href="https://readers-viewpoint.vercel.app/"><img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"></a> </p> </td> </tr> <tr> <td width="50%" align="center"> <h3>🏛️ Citizen & Constitution</h3> <a href="https://www.youtube.com/watch?v=OO9dnwtZrN4" target="_blank"> <img src="https://img.youtube.com/vi/OO9dnwtZrN4/0.jpg" width="100%" /> </a><br> <p> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a> <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a> <a href="https://unity.com/"><img src="https://img.shields.io/badge/Game_Design-7046FF?style=flat-square&logo=unity&logoColor=white" alt="Game Design" /></a> </p> <p><strong>A gamified learning platform teaching constitutional rights via interactive visual novels</strong></p> <p> <a href="https://github.com/Greyash-Dave/Citizen-Constitution-GamifiedPlatform"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo"></a> <a href="https://grey-citizen-and-constitution.vercel.app/"><img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"></a> </p> </td> <td width="50%" align="center"> <h3>🎥 Shortify - Video Converter</h3> <a href="https://github.com/Greyash-Dave/shortify"> <img src="https://github.com/Greyash-Dave/shortify/blob/main/screenshots/app-preview.png" width="100%" /> </a><br> <p> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a> <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a> </p> <p><strong>Convert long videos into engaging short clips with auto-cropping, captions, and AI processing</strong></p> <p> <a href="https://github.com/Greyash-Dave/Shortify"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo"></a> <a href="#"><img src="https://img.shields.io/badge/Coming-Soon-gray?style=for-the-badge&logo=vercel" alt="Coming Soon"></a> </p> </td> </tr> </table> </div>
 
-## <img src="https://media.giphy.com/media/hSmKaLvG4ZDLouDtV1/giphy.gif" width="40"> Experience & Achievements
-
-```rust
-// Experience & Achievements
-fn display_experience() {
-    println!("┌───────────────────────────────────────────────┐");
-    println!("│ 💼 Software Engineer Intern @ Openturf        │");
-    println!("│   Mar 2024 - Sep 2024                         │");
-    println!("│   - Built full-stack Pokémon card game        │");
-    println!("│   - Implemented serverless architecture       │");
-    println!("│   - Integrated PokeAPI with secure auth       │");
-    println!("└───────────────────────────────────────────────┘");
-    
-    println!("┌───────────────────────────────────────────────┐");
-    println!("│ 🏆 Achievements                               │");
-    println!("│   - IEEE YESIST12 - International Finalist    │");
-    println!("│   - TN Police Hackathon Finalist              │");
-    println!("│   - Ranked 600+ out of 19,500 in IEEEXtreme   │");
-    println!("└───────────────────────────────────────────────┘");
-}
-
-fn main() {
-    display_experience();
-}
-
-```
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBzdGE2ajNveml6a3dsN3AzNnYwdXJsZTlvZWNuYzkzeXV6ZHVyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giEkFHo4rBnHYGwBgb/giphy.gif" width="40"> GitHub Stats
+##  GitHub Stats
 
 <div align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greyash-Dave&layout=compact&langs_count=7&theme=radical&border_radius=8&hide_border=true&bg_color=0D1117"/> </div>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxucXk0ejF0dGw2cWhwY3gxOHhnZmVwNmdscnltbmIzZW5qOHNpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEDIHHp3i8bVoEdxd7/giphy.gif" width="40"> Work Style & Philosophy
+##  Work Style & Philosophy
 
 <a href="https://gresham-dave-portfolio.vercel.app/"><img src="./images/Greyash-Dave/quote.jpg" /></a>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU5dnV3czZramR0M3J0Nm9pNzYwYXpoN2t3YWszbWE2OG11eTV2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="40"> Connect With Me
+##  Connect With Me
 
 <div align="center"> <a href="https://gresham-dave-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://linkedin.com/in/Gresham-Dave"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Greyash-Dave"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> </div>
