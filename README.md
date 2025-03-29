@@ -1,214 +1,97 @@
-
 <div align="center">
 
-# <img src="https://media.giphy.com/media/3HE2QRz2CAkQg/giphy.gif" width="80"> G R E Y A S H . D A V E . C
+<a href="https://gresham-dave-portfolio.vercel.app/"><img src="./images/banner.png" /></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=435&lines=%3E%3E+INITIATING+SYSTEM+BOOT...;%3E%3E+FULL-STACK+DEVELOPMENT+ONLINE;%3E%3E+AI+PROTOCOLS+ACTIVATED;%3E%3E+GAME+DEV+MODULES+LOADED;%3E%3E+SYSTEM+READY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Game+Developer;Software+Engineer&color=FFFFFF&background=0D1117)](https://git.io/typing-svg)
 
-<a href="https://gresham-dave-portfolio.vercel.app/"><img src="https://img.shields.io/badge/ENTER_PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=black" /></a> <a href="https://linkedin.com/in/Gresham-Dave"><img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" /></a> <a href="mailto:greyashdave@gmail.com"><img src="https://img.shields.io/badge/TRANSMIT_MESSAGE-00FF41?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<a href="https://gresham-dave-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://linkedin.com/in/Gresham-Dave"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Greyash-Dave"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div> <br>
 
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  [SYS]: Scanning for active network connections...          │
-│  [SYS]: Connection established with GUEST                   │
-│  [SYS]: Granting temporary access to developer profile      │
-│  [SYS]: Access level: READ_ONLY                             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+## <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="40"> About Me
+
+```rust
+struct Technologies {
+    frontend: Vec<&'static str>,
+    backend: Vec<&'static str>,
+    ai: Vec<&'static str>,
+    game_dev: Vec<&'static str>,
+    currently_learning: Vec<&'static str>,
+}
+
+struct Developer {
+    role: &'static str,
+    specialization: Vec<&'static str>,
+    technologies: Technologies,
+    philosophy: &'static str,
+}
+
+fn main() {
+    let gresham = Developer {
+        role: "Software Engineer",
+        specialization: vec!["Full-Stack", "Game Development", "AI/ML"],
+        technologies: Technologies {
+            frontend: vec!["React.js", "JavaScript", "HTML/CSS"],
+            backend: vec!["Node.js", "Express", "Flask", "PostgreSQL"],
+            ai: vec!["Python", "OpenCV", "scikit-learn"],
+            game_dev: vec!["Unity", "Pygame"],
+            currently_learning: vec!["Rust", "AI Wrappers", "Socket.IO"],
+        },
+        philosophy: "Learn fast, build faster, iterate continuously.",
+    };
+}
 
 ```
 
-## <img src="https://media.giphy.com/media/hUInVvw0jPNucxUZWG/giphy.gif" width="40"> `SYS.STATUS`
+I build impactful and engaging applications that blend creativity with technical excellence. From leading hackathon projects to developing full-stack games, I thrive in environments that challenge me to innovate and learn continuously.
 
-```javascript
-// SYSTEM STATUS: ONLINE
-// LOCATION: CHENNAI, INDIA
-// LAST UPDATE: 2025-03-29
-
-const GREYASH = {
-  role: "SOFTWARE.ENGINEER",
-  specialization: [
-    "FULL.STACK.DEV", 
-    "AI.INTEGRATION", 
-    "COMPUTER.VISION", 
-    "GAME.DEVELOPMENT"
-  ],
-  current_project: "BUILDING E-COMMERCE MOBILE APP @ CHANDRA TIMBERS",
-  power_level: "OVER.9000",
-  
-  execute_code() {
-    return "Building digital solutions that matter";
-  }
-};
-
-```
-
-## <img src="https://media.giphy.com/media/l0MYIULIbgCzQZJD2/giphy.gif" width="40"> `TECH.ARSENAL`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black) ![React](https://img.shields.io/badge/React-00FF41?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-00FF41?style=for-the-badge&logo=nodedotjs&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-00FF41?style=for-the-badge&logo=rust&logoColor=black)
-
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│            PRIMARY        SECONDARY       EXPERIMENTAL      │
-│ ┌────────┐ ┌────────┐    ┌────────┐      ┌────────┐        │
-│ │React.js│ │Node.js │    │OpenCV  │      │Rust    │        │
-│ └────────┘ └────────┘    └────────┘      └────────┘        │
-│ ┌────────┐ ┌────────┐    ┌────────┐      ┌────────┐        │
-│ │Python  │ │Express │    │Unity   │      │NixOS   │        │
-│ └────────┘ └────────┘    └────────┘      └────────┘        │
-│ ┌────────┐ ┌────────┐    ┌────────┐      ┌────────┐        │
-│ │ SQL    │ │Docker  │    │Ren'Py  │      │Whisper │        │
-│ └────────┘ └────────┘    └────────┘      └────────┘        │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
-```
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 </div>
 
-## <img src="https://media.giphy.com/media/yeXW5ofvYFwGY/giphy.gif" width="40"> `PROJECT.ARCHIVES`
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40"> Projects
 
-<table> <tr> <td>
+<div align="center"> <table> <tr> <td width="50%" align="center"> <h3>🎮 Pokémon Card Game</h3> <a href="https://www.youtube.com/watch?v=v021D_MnzvY" target="_blank"> <img src="https://img.youtube.com/vi/v021D_MnzvY/0.jpg" width="100%" /> </a><br> <p> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a> <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a> </p> <p><strong>A full-stack game with real-time battle mechanics, PokeAPI integration, and serverless architecture</strong></p> <p> <a href="https://github.com/Greyash-Dave/Pokemon-Card-Game"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo"></a> <a href="https://pokemon-card-game-client.vercel.app/"><img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"></a> </p> </td> <td width="50%" align="center"> <h3>📖 Reader's Viewpoint</h3> <a href="https://www.youtube.com/watch?v=10hgdNmQjWU" target="_blank"> <img src="https://img.youtube.com/vi/10hgdNmQjWU/0.jpg" width="100%" /> </a><br> <p> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a> <a href="https://developers.google.com/youtube/v3"><img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube API" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a> </p> <p><strong>A minimalistic ePub reader with customizable themes and YouTube integration</strong></p> <p> <a href="https://github.com/Greyash-Dave/Readers-Viewpoint"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo"></a> <a href="https://readers-viewpoint.vercel.app/"><img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"></a> </p> </td> </tr> <tr> <td width="50%" align="center"> <h3>🏛️ Citizen & Constitution</h3> <a href="https://www.youtube.com/watch?v=OO9dnwtZrN4" target="_blank"> <img src="https://img.youtube.com/vi/OO9dnwtZrN4/0.jpg" width="100%" /> </a><br> <p> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a> <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a> <a href="https://unity.com/"><img src="https://img.shields.io/badge/Game_Design-7046FF?style=flat-square&logo=unity&logoColor=white" alt="Game Design" /></a> </p> <p><strong>A gamified learning platform teaching constitutional rights via interactive visual novels</strong></p> <p> <a href="https://github.com/Greyash-Dave/Citizen-Constitution-GamifiedPlatform"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo"></a> <a href="https://grey-citizen-and-constitution.vercel.app/"><img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"></a> </p> </td> <td width="50%" align="center"> <h3>🎥 Shortify - Video Converter</h3> <a href="https://github.com/Greyash-Dave/shortify"> <img src="https://github.com/Greyash-Dave/shortify/blob/main/screenshots/app-preview.png" width="100%" /> </a><br> <p> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a> <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a> </p> <p><strong>Convert long videos into engaging short clips with auto-cropping, captions, and AI processing</strong></p> <p> <a href="https://github.com/Greyash-Dave/Shortify"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo"></a> <a href="#"><img src="https://img.shields.io/badge/Coming-Soon-gray?style=for-the-badge&logo=vercel" alt="Coming Soon"></a> </p> </td> </tr> </table> </div>
 
-### `> Shortify_v1.0`
+## <img src="https://media.giphy.com/media/hSmKaLvG4ZDLouDtV1/giphy.gif" width="40"> Experience & Achievements
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300">
+```rust
+// Experience & Achievements
+fn display_experience() {
+    println!("┌───────────────────────────────────────────────┐");
+    println!("│ 💼 Software Engineer Intern @ Openturf        │");
+    println!("│   Mar 2024 - Sep 2024                         │");
+    println!("│   - Built full-stack Pokémon card game        │");
+    println!("│   - Implemented serverless architecture       │");
+    println!("│   - Integrated PokeAPI with secure auth       │");
+    println!("└───────────────────────────────────────────────┘");
+    
+    println!("┌───────────────────────────────────────────────┐");
+    println!("│ 🏆 Achievements                               │");
+    println!("│   - IEEE YESIST12 - International Finalist    │");
+    println!("│   - TN Police Hackathon Finalist              │");
+    println!("│   - Ranked 600+ out of 19,500 in IEEEXtreme   │");
+    println!("└───────────────────────────────────────────────┘");
+}
 
-**[CLASSIFIED_VIDEO_TECH]**  
-Transform long-form content into 9:16 shorts with AI.
-
-```yaml
-Tech: Python | Flask | FFmpeg | Whisper
-Type: AI-Powered Video Processing
-Link: github.com/Greyash-Dave/shortify
-Demo: youtu.be/NynlLpj6_SE
-
-```
-
-</td> <td>
-
-### `> Pokemon_CardGame_v2.3`
-
-<img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fbe8163bdad1.gif" width="300">
-
-**[REAL-TIME_BATTLE_SYS]**  
-Web-based full-stack game with PokeAPI integration.
-
-```yaml
-Tech: React | Node | Express | PostgreSQL
-Type: Full-Stack Game
-Link: github.com/Greyash-Dave/Pokemon-Card-Game
-Demo: pokemon-card-game-client.vercel.app
+fn main() {
+    display_experience();
+}
 
 ```
 
-</td> </tr> <tr> <td>
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBzdGE2ajNveml6a3dsN3AzNnYwdXJsZTlvZWNuYzkzeXV6ZHVyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giEkFHo4rBnHYGwBgb/giphy.gif" width="40"> GitHub Stats
 
-### `> ACE_v1.2`
+<div align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greyash-Dave&layout=compact&langs_count=7&theme=radical&border_radius=8&hide_border=true&bg_color=0D1117"/> </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="300">
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxucXk0ejF0dGw2cWhwY3gxOHhnZmVwNmdscnltbmIzZW5qOHNpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEDIHHp3i8bVoEdxd7/giphy.gif" width="40"> Work Style & Philosophy
 
-**[GESTURE_CONTROL_TECH]**  
-Computer vision game control with 95% accuracy.
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=It%20always%20takes%20longer%20than%20you%20expect%2C%20even%20when%20you%20take%20into%20account%20Hofstadter%27s%20Law&author=Douglas%20R.%20Hofstadter" alt="Hofstadter's Law Quote"/> </div> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Do%20nothing%20that%20is%20of%20no%20use&author=Miyamoto%20Musashi" alt="Miyamoto Musashi Quote"/> </div>
 
-```yaml
-Tech: Python | OpenCV | Unity | Sockets
-Type: Computer Vision Game Control
-Link: github.com/Greyash-Dave/ACE
-Demo: youtu.be/QFs3vSujk5w
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU5dnV3czZramR0M3J0Nm9pNzYwYXpoN2t3YWszbWE2OG11eTV2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="40"> Connect With Me
 
-```
-
-</td> <td>
-
-### `> CitizenConsitution_v3.1`
-
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-
-**[GAMIFIED_LEARNING_SYS]**  
-Interactive storytelling for constitutional education.
-
-```yaml
-Tech: React | Node | Express | Ren'Py
-Type: Educational Game Platform
-Link: github.com/Greyash-Dave/Citizen-Constitution-GamifiedPlatform
-Demo: grey-citizen-and-constitution.vercel.app
-
-```
-
-</td> </tr> </table>
-
-## <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40"> `ACHIEVEMENT.LOG`
-
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  >> IEEE YESIST12 - INTERNATIONAL FINALIST [2023]           │
-│  >> TN POLICE HACKATHON - FINALIST [2024]                   │
-│  >> IEEEXtreme 18.0 - RANKED 600+ OUT OF 19,500             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
-```
-
-## <img src="https://media.giphy.com/media/l4EpblDY4msVtKAOk/giphy.gif" width="40"> `EXPERIENCE.DAT`
-
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  >> CHANDRA TIMBERS [FEB 2025 - PRESENT]                    │
-│     - Developing e-commerce mobile app                      │
-│     - Tech: React Native, PostgreSQL, Supabase              │
-│                                                             │
-│  >> OPENTURF TECHNOLOGIES [MAR 2024 - SEP 2024]             │
-│     - Built full-stack Pokémon card game                    │
-│     - Implemented secure authentication                     │
-│     - Transitioned to serverless architecture               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
-```
-
-## <img src="https://media.giphy.com/media/QvpqIQAAl66EfoTJj8/giphy.gif" width="40"> `PHILOSOPHY.BIN`
-
-<div align="center">
-
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│    "IT ALWAYS TAKES LONGER THAN YOU EXPECT, EVEN WHEN       │
-│     YOU TAKE INTO ACCOUNT HOFSTADTER'S LAW."                │
-│                                      - DOUGLAS R. HOFSTADTER │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
-```
-
-</div>
-
-## <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="40"> `SYSTEM.STATS`
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Greyash-Dave&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="Greyash Dave's GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greyash-Dave&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="Top Languages"> </div> <div align="center">
-
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  SIGNAL TERMINATED... CONNECTION CLOSED...                  │
-│                                                             │
-│  TO REESTABLISH CONNECTION:                                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
-```
-
-![JavaScript](https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=black) ![Python](https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black) ![C](https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black)
-
-</div>
-
-![Matrix Code Animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<div align="center"> <a href="https://gresham-dave-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://linkedin.com/in/Gresham-Dave"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Greyash-Dave"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> </div>
