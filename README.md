@@ -8,43 +8,6 @@
 
 </div> <br>
 
-## About Me
-
-```rust
-struct Technologies {
-    frontend: Vec<&'static str>,
-    backend: Vec<&'static str>,
-    ai: Vec<&'static str>,
-    game_dev: Vec<&'static str>,
-    currently_learning: Vec<&'static str>,
-}
-
-struct Developer {
-    role: &'static str,
-    specialization: Vec<&'static str>,
-    technologies: Technologies,
-    philosophy: &'static str,
-}
-
-fn main() {
-    let gresham = Developer {
-        role: "Software Engineer",
-        specialization: vec!["Full-Stack", "Game Development", "AI/ML"],
-        technologies: Technologies {
-            frontend: vec!["React.js", "JavaScript", "HTML/CSS"],
-            backend: vec!["Node.js", "Express", "Flask", "PostgreSQL"],
-            ai: vec!["Python", "OpenCV", "scikit-learn"],
-            game_dev: vec!["Unity", "Pygame"],
-            currently_learning: vec!["Rust", "AI Wrappers", "Socket.IO"],
-        },
-        philosophy: "Learn fast, build faster, iterate continuously.",
-    };
-}
-
-```
-
-I build impactful and engaging applications that blend creativity with technical excellence. From leading hackathon projects to developing full-stack games, I thrive in environments that challenge me to innovate and learn continuously.
-
 ## Skills
 
 <div align="center">
@@ -58,12 +21,9 @@ I build impactful and engaging applications that blend creativity with technical
 </div>
 
 
-
 ##  GitHub Stats
 
 <div align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greyash-Dave&layout=compact&langs_count=7&theme=radical&border_radius=8&hide_border=true&bg_color=0D1117"/> </div>
-
-##  Work Style & Philosophy
 
 <a href="https://gresham-dave-portfolio.vercel.app/"><img src="./images/Greyash-Dave/quote.jpg" /></a>
 
