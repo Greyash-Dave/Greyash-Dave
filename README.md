@@ -45,7 +45,7 @@ fn main() {
 
 I build impactful and engaging applications that blend creativity with technical excellence. From leading hackathon projects to developing full-stack games, I thrive in environments that challenge me to innovate and learn continuously.
 
-## Tech Stack
+## Skills
 
 <div align="center">
 
