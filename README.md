@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://gresham-dave-portfolio.vercel.app/"><img src="./images/banner.png" /></a>
+<a href="https://gresham-dave-portfolio.vercel.app/"><img src="./images/Greyash-Dave/banner.png" /></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Game+Developer;Software+Engineer&color=FFFFFF&background=0D1117)](https://git.io/typing-svg)
 
@@ -90,7 +90,7 @@ fn main() {
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxucXk0ejF0dGw2cWhwY3gxOHhnZmVwNmdscnltbmIzZW5qOHNpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEDIHHp3i8bVoEdxd7/giphy.gif" width="40"> Work Style & Philosophy
 
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=It%20always%20takes%20longer%20than%20you%20expect%2C%20even%20when%20you%20take%20into%20account%20Hofstadter%27s%20Law&author=Douglas%20R.%20Hofstadter" alt="Hofstadter's Law Quote"/> </div> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Do%20nothing%20that%20is%20of%20no%20use&author=Miyamoto%20Musashi" alt="Miyamoto Musashi Quote"/> </div>
+<a href="https://gresham-dave-portfolio.vercel.app/"><img src="./images/Greyash-Dave/quote.jpg" /></a>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU5dnV3czZramR0M3J0Nm9pNzYwYXpoN2t3YWszbWE2OG11eTV2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="40"> Connect With Me
 
