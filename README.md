@@ -4,13 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Game+Developer;Software+Engineer&color=FFFFFF&background=0D1117)](https://git.io/typing-svg)
 
-## 
-
 <a href="https://gresham-dave-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://linkedin.com/in/Gresham-Dave"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Greyash-Dave"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div> <br>
-
-## 
 
 ## Skills
 
@@ -24,13 +20,7 @@
 
 </div>
 
-
 ##  GitHub Stats
-
 <div align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greyash-Dave&layout=compact&langs_count=7&theme=radical&border_radius=8&hide_border=true&bg_color=0D1117"/> </div>
 
-##  
-
 <a href="https://gresham-dave-portfolio.vercel.app/"><img src="./images/Greyash-Dave/quote.jpg" /></a>
-
-## 
